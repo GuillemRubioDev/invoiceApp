@@ -4,20 +4,18 @@
   <img src="https://link_to_your_project_image_or_logo.png" alt="FacturaGenerator" width="200">
 </p>
 
-Una aplicación web simple para la generación de facturas, creada con Vite, React y Bootstrap. Este proyecto está diseñado como un curso de iniciación para practicar conceptos clave de React, como `useState`, hooks, validadores, objetos y variables constantes.
+Una aplicación web simple para la generación de facturas, creada con Vite, React y Bootstrap. Este proyecto forma parte del curso **React: Creando webapp Full Stack con Spring Boot 2023** en Udemy. Es una oportunidad perfecta para aquellos que deseen iniciarse en React y practicar conceptos esenciales como `useState`, hooks, validadores, objetos, variables constantes, y más.
 
 ## 🚀 Características
 
-- **Generación de Facturas:** Crea fácilmente facturas profesionales.
-- **Práctica de React:** Aprende y practica el uso de React y sus principales conceptos.
+- **Generación de Facturas:** Crea de manera fácil y rápida facturas profesionales.
+- **Práctica de React:** Aprende y aplica conceptos fundamentales de React para construir aplicaciones web modernas.
 - **Bootstrap Integrado:** Utiliza Bootstrap para un diseño atractivo y responsivo.
-- **Manejo de Estado:** Experimenta con el uso de `useState` y otros hooks de React.
-- **Validadores y Objetos:** Mejora tus habilidades trabajando con validadores, objetos y constantes.
+- **Curso en Udemy:** Este proyecto forma parte del curso **React: Creando webapp Full Stack con Spring Boot 2023** en Udemy.
 
 ## 📸 Capturas de Pantalla
 
 ![Captura de Pantalla 1](https://link_to_screenshot_1.png)
-![Captura de Pantalla 2](https://link_to_screenshot_2.png)
 
 ## 🛠️ Instalación y Uso
 
@@ -25,7 +23,7 @@ Una aplicación web simple para la generación de facturas, creada con Vite, Rea
 2. Instala las dependencias: `npm install`
 3. Inicia la aplicación: `npm run dev`
 
-¡Y eso es todo! Ahora puedes empezar a generar facturas y explorar las funcionalidades de la aplicación.
+¡Y eso es todo! Ahora puedes comenzar a generar facturas y explorar las funcionalidades de la aplicación.
 
 ## 🤝 Contribuciones y Problemas
 
@@ -37,7 +35,7 @@ Si encuentras útil este proyecto, ¡no dudes en darle una estrella en GitHub!
 
 ## ❓ ¿Preguntas o Dudas?
 
-Si tienes alguna pregunta o duda, no dudes en [crearnos un issue](https://github.com/tu_usuario/factura-generator/issues). Estamos aquí para ayudarte.
+Si tienes alguna pregunta o duda relacionada con el curso o el proyecto, no dudes en [crearnos un issue](https://github.com/tu_usuario/factura-generator/issues). Estamos aquí para ayudarte.
 
 ## 📜 Licencia
 
@@ -45,4 +43,4 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE.md) - ver el archi
 
 ---
 
-¡Espero que disfrutes aprendiendo con este proyecto! 🚀
+¡Esperamos que disfrutes aprendiendo y construyendo con este proyecto! 🚀
