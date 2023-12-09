@@ -15,7 +15,7 @@ Una aplicación web simple para la generación de facturas, creada con Vite, Rea
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1](https://link_to_screenshot_1.png)
+![Captura de Pantalla 1](/src/assets/captura1.png)
 
 ## 🛠️ Instalación y Uso
 
