@@ -1,9 +1,5 @@
 # FacturaGenerator 🧾💼
 
-<p align="center">
-  <img src="https://link_to_your_project_image_or_logo.png" alt="FacturaGenerator" width="200">
-</p>
-
 Una aplicación web simple para la generación de facturas, creada con Vite, React y Bootstrap. Este proyecto forma parte del curso **React: Creando webapp Full Stack con Spring Boot 2023** en Udemy. Es una oportunidad perfecta para aquellos que deseen iniciarse en React y practicar conceptos esenciales como `useState`, hooks, validadores, objetos, variables constantes, y más.
 
 ## 🚀 Características
@@ -19,7 +15,7 @@ Una aplicación web simple para la generación de facturas, creada con Vite, Rea
 
 ## 🛠️ Instalación y Uso
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/factura-generator.git`
+1. Clona este repositorio: `git clone https://github.com/GuillemRubioDev/factura-generator.git`
 2. Instala las dependencias: `npm install`
 3. Inicia la aplicación: `npm run dev`
 
@@ -27,7 +23,7 @@ Una aplicación web simple para la generación de facturas, creada con Vite, Rea
 
 ## 🤝 Contribuciones y Problemas
 
-¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes una sugerencia, por favor abre un [issue](https://github.com/tu_usuario/factura-generator/issues).
+¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes una sugerencia, por favor abre un [issue](https://github.com/GuillemRubioDev/factura-generator/issues).
 
 ## ⭐ ¡Dale una Estrella!
 
