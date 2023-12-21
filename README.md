@@ -51,7 +51,7 @@ Para desplegar la aplicación en un entorno de producción, sigue las [instrucci
 
 ## ▶️ Pruebala
 
-[![Deployed App](https://vercel.com/button)](https://invoice-app-seven-liard.vercel.app/)
+[![Pruebalo en Vercel](https://vercel.com/button)](https://invoice-app-seven-liard.vercel.app/)
 
 <!-- ## 🚀 Instrucciones de Despliegue
 
