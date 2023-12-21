@@ -49,4 +49,15 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE.md) - ver el archi
 
 Para desplegar la aplicación en un entorno de producción, sigue las [instrucciones de despliegue](#).
 
+## ▶️ Pruebala
+
 [![Deployed App](https://vercel.com/button)](https://invoice-app-seven-liard.vercel.app/)
+
+<!-- ## 🚀 Instrucciones de Despliegue
+
+Aquí encontrarás las instrucciones para desplegar la aplicación en Vercel.
+
+1. Clona este repositorio: `git clone https://github.com/GuillemRubioDev/factura-generator.git`
+2. Instala las dependencias: `npm install`
+3. Configura las variables de entorno si es necesario.
+4. Despliega la aplicación en Vercel: [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/GuillemRubioDev/factura-generator) -->
